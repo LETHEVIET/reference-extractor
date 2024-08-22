@@ -1,0 +1,5 @@
+feedparser==6.0.11
+pdfminer.six==20231228
+tqdm==4.66.4
+unstructured==0.15.1
+pypdf==4.3.1
