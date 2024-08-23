@@ -5,5 +5,6 @@
 - Install python libraries with `pip install -r requirements.txt` command
 
 ## Usage
-the example uses in the `example.ipynb`.
+- the script in the `reference_extractor.py` file
+- the example uses in the `example.ipynb`.
 
